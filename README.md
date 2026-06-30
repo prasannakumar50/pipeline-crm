@@ -19,14 +19,14 @@ A full-stack MERN web application for managing a shared CRM-style sales opportun
 
 ## Features
 
-- ✅ Secure registration & login with bcrypt password hashing
-- ✅ JWT authentication (2h expiry, stored in localStorage)
-- ✅ Shared opportunity pipeline visible to all users
-- ✅ Ownership-based edit/delete (enforced on backend)
-- ✅ Filters: stage, priority, search, sort
-- ✅ Summary dashboard: pipeline value, won value, high-priority count
-- ✅ Toast notifications and loading/error states
-- ✅ Responsive design
+-  Secure registration & login with bcrypt password hashing
+-  JWT authentication (2h expiry, stored in localStorage)
+-  Shared opportunity pipeline visible to all users
+-  Ownership-based edit/delete (enforced on backend)
+-  Filters: stage, priority, search, sort
+-  Summary dashboard: pipeline value, won value, high-priority count
+-  Toast notifications and loading/error states
+-  Responsive design
 
 ---
 
